@@ -58,7 +58,7 @@ Aplikasi web ringkas untuk guru merekod penghantaran buku kerja atau tugasan mur
 9. Dalam `index.html`, cari:
 
 ```js
-const APPS_SCRIPT_URL = "https://script.google.com/macros/s/AKfycby9t7vEtmyVrfwVI5v1eWM2JXhz19GMVgTt_O8JwxJfxMyp1g3_DfHfG0_y0nC9wHrwaQ/exec";
+const APPS_SCRIPT_URL = "https://script.google.com/macros/s/AKfycbwS5cYslO7saSdEonyTsotqKNBWR3LyOEAmO3E7IHtXujTqLUNl1k3Kzll8h3tb4rez/exec";
 ```
 
 10. Pastikan URL tersebut ialah URL Web App Apps Script yang betul.
@@ -78,6 +78,12 @@ BIL, SUBJEK
 ```
 
 Pautan CSV Google Sheet telah dikonfigurasi terus di dalam `index.html` dan `apps-script/Code.gs`.
+
+ID Google Sheet semasa:
+
+```text
+1KRewWoEcVYxFvlCgcLDG2UdKRZIHsKsoOi7IvVf8IhY
+```
 
 ## Nota Penting
 
